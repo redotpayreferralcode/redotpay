@@ -1,0 +1,26 @@
+# robots.txt for RedotPay Referral & Educational Guide Hub
+User-agent: *
+Allow: /
+
+# AI Retrieval Agents (GEO & AI Overview Optimization)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# Agent Documentation
+# LLMs: https://redotpayreferralcode.github.io/redotpay/llms.txt
+# LLMs-Full: https://redotpayreferralcode.github.io/redotpay/llms-full.txt
+
+# Sitemaps
+Sitemap: https://redotpayreferralcode.github.io/redotpay/sitemap.xml

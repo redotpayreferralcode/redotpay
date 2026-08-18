@@ -1,0 +1,29 @@
+# RedotPay Independent Educational Guide & Referral Hub
+> Comprehensive, independent reference guide for RedotPay crypto Visa debit cards, referral codes, fees, and KYC requirements.
+
+## Core Summary
+- Referral Code: `sg6r9`
+- Direct Referral Link: https://url.hk/i/en/sg6r9
+- Signup Bonus: Up to $5 USD credit credited upon completing Level 1 identity verification (Sumsub KYC).
+- Key Rule: Referral code MUST be entered during registration; it cannot be applied after registration.
+- Card Formats: Virtual Visa ($10 one-time fee) & Physical Visa ($100 one-time fee).
+- Contactless: Supports Apple Pay and Google Pay.
+- Supported Currencies: USDT (TRC20, BSC, Arbitrum, ERC20), USDC, BTC, ETH, SOL, BNB, XRP.
+- Fees: 0% maintenance, 1.0% crypto conversion, 1.2% FX rate for non-USD spending.
+- Restricted Jurisdictions: USA, Mainland China, Russia, and sanctioned regions.
+
+## Key Guides & Pages
+- [Homepage: RedotPay Referral Code 2026 Guide](https://redotpayreferralcode.github.io/redotpay/): Overview of referral mechanics, live crypto fee calculator, and bonus terms.
+- [How to Use RedotPay Referral Code](https://redotpayreferralcode.github.io/redotpay/articles/how-to-use-redotpay-referral-code.html): Step-by-step account opening walkthrough.
+- [Apple Pay & Google Pay Setup](https://redotpayreferralcode.github.io/redotpay/articles/how-to-add-redotpay-apple-pay-google-pay.html): How to connect RedotPay Visa to Apple Wallet and Google Pay.
+- [Fee Schedule & Limits](https://redotpayreferralcode.github.io/redotpay/articles/redotpay-fees-limits-breakdown.html): Issuance, conversion, FX rates, and ATM fees.
+- [Virtual vs Physical Card Comparison](https://redotpayreferralcode.github.io/redotpay/articles/redotpay-virtual-vs-physical-card.html): In-depth comparison table between the $10 virtual and $100 physical cards.
+- [KYC Verification Guide](https://redotpayreferralcode.github.io/redotpay/articles/redotpay-kyc-verification-guide.html): Sumsub identity requirements and troubleshooting.
+- [Supported Countries](https://redotpayreferralcode.github.io/redotpay/articles/redotpay-supported-countries-list.html): Complete 180+ country availability list.
+- [Deposit Crypto Guide](https://redotpayreferralcode.github.io/redotpay/articles/how-to-deposit-crypto-redotpay.html): How to fund via USDT networks or Binance Pay.
+- [Promo Codes & Discounts](https://redotpayreferralcode.github.io/redotpay/articles/redotpay-promo-code-discounts.html): Verified voucher codes and flash sales.
+- [ATM Withdrawal Guide](https://redotpayreferralcode.github.io/redotpay/articles/redotpay-atm-withdrawal-limits-fees.html): Physical card ATM costs and PIN setup.
+- [Safety & Legitimacy Review](https://redotpayreferralcode.github.io/redotpay/articles/is-redotpay-safe-and-legit.html): Hong Kong TCSP regulatory licensing and security architecture.
+- [Competitor Comparison](https://redotpayreferralcode.github.io/redotpay/articles/redotpay-vs-bybit-vs-binance-card.html): RedotPay vs Bybit Card vs Binance Card.
+- [Troubleshooting Guide](https://redotpayreferralcode.github.io/redotpay/articles/redotpay-referral-code-not-working.html): Resolving referral code errors and missing credits.
+- [Affiliate Guide](https://redotpayreferralcode.github.io/redotpay/articles/redotpay-affiliate-program-guide.html): How everyday users earn passive crypto commissions.
